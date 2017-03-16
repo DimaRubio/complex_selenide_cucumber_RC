@@ -4,7 +4,4 @@
     <comment>Here are some favorites</comment>
     <entry key="email">testdlyasites-two@yandex.ru</entry>
     <entry key="password">pr0st0123</entry>
-    <entry key="favoriteDay">today</entry>
-    <entry key="favoriteSeason">summer</entry>
-    <entry key="favoriteFruit">pomegranate</entry>
 </properties>
