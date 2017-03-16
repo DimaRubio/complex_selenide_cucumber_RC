@@ -35,9 +35,4 @@ public class ReadPropertiesXmlFile {
         return  properties.getProperty(key);
     }
 
-    public String getDat(String key)
-    {
-        getDataFromXML(key);
-        return null;
-    }
 }
